@@ -1,0 +1,6 @@
+{
+  "name": "Resume Analyzer | n8n Automated Pipeline",
+  "description": "Production-grade AI and automated resume analysis powered by n8n workflow automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
